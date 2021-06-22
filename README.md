@@ -1,1 +1,0 @@
-# sea-shepherd-pwa-poc
